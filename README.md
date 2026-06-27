@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->

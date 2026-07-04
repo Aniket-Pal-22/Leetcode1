@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3620-network-recovery-pathways](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3620-network-recovery-pathways) |
 ## Greedy

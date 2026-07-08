@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1288-remove-covered-intervals) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

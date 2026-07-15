@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3620-network-recovery-pathways) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |

@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0066-plus-one) |
@@ -52,6 +53,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -76,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |

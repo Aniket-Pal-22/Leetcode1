@@ -40,6 +40,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -186,6 +187,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

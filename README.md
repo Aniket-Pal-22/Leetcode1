@@ -70,6 +70,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -119,6 +121,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -131,6 +134,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -142,6 +146,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

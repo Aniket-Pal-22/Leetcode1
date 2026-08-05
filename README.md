@@ -182,6 +182,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2685-count-the-number-of-complete-components) |
@@ -259,6 +260,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -267,5 +269,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->

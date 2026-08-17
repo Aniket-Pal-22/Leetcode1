@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |

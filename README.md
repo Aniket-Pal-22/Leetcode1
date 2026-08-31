@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0112-path-sum) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2685-count-the-number-of-complete-components) |
@@ -218,6 +219,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3310-remove-methods-from-project) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0112-path-sum) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0112-path-sum) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |

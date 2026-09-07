@@ -60,6 +60,7 @@
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1470-shuffle-the-array) |
@@ -134,6 +135,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |

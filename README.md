@@ -6,6 +6,7 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -33,6 +34,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -77,6 +79,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |

@@ -66,6 +66,7 @@
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1470-shuffle-the-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -187,6 +189,7 @@
 | [1096-brace-expansion-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

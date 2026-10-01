@@ -14,6 +14,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -55,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
@@ -369,4 +371,8 @@
 | [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

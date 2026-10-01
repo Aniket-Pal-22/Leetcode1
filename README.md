@@ -14,6 +14,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -66,6 +67,7 @@
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1929-concatenation-of-array) |

@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -292,6 +293,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1096-brace-expansion-ii) |
@@ -364,6 +366,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

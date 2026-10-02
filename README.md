@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3524-find-x-value-of-array-i) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -343,6 +345,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quicksort
@@ -369,6 +372,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design

@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -61,6 +62,7 @@
 | [0283-move-zeroes](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -101,6 +103,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |

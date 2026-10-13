@@ -18,6 +18,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -66,6 +67,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |

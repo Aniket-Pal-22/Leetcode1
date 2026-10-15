@@ -87,6 +87,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -115,6 +116,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -130,6 +132,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -405,4 +408,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

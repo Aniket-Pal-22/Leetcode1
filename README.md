@@ -71,6 +71,7 @@
 | [0485-max-consecutive-ones](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0724-find-pivot-index) |
@@ -326,6 +327,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -352,6 +354,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1572-matrix-diagonal-sum) |

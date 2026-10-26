@@ -76,6 +76,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1288-remove-covered-intervals) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1572-matrix-diagonal-sum) |

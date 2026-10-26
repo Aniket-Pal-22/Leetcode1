@@ -79,6 +79,7 @@
 | [0867-transpose-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -278,6 +280,7 @@
 | [0110-balanced-binary-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0112-path-sum) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3310-remove-methods-from-project) |
@@ -287,12 +290,14 @@
 | [0112-path-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -359,6 +364,7 @@
 | [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1672-richest-customer-wealth) |

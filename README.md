@@ -83,6 +83,7 @@
 | [1406-stone-game-iii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -353,6 +354,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |

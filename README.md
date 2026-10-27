@@ -69,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0566-reshape-the-matrix) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0897-increasing-order-search-tree) |
@@ -357,6 +359,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |

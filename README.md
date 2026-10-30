@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0301-remove-invalid-parentheses) |

@@ -380,6 +380,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0203-remove-linked-list-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Queue
 |  |
@@ -456,4 +457,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0523-continuous-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

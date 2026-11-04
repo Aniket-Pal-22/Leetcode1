@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0523-continuous-subarray-sum) |
@@ -315,6 +316,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0344-reverse-string) |
@@ -383,6 +385,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0876-middle-of-the-linked-list) |

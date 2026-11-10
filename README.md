@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0387-first-unique-character-in-a-string) |
@@ -231,6 +233,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0022-generate-parentheses) |

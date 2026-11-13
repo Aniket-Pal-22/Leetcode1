@@ -65,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

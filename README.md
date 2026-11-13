@@ -251,6 +251,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1768-merge-strings-alternately](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -330,6 +331,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation

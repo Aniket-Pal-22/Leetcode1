@@ -107,6 +107,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -207,6 +208,7 @@
 | [1927-sum-game](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -227,6 +229,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

@@ -52,6 +52,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3536-maximum-product-of-two-digits) |
@@ -119,6 +120,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -187,6 +189,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
@@ -281,6 +284,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Graph Theory
 |  |
 | ------- |
@@ -362,6 +366,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation

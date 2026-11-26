@@ -52,6 +52,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3524-find-x-value-of-array-i) |
@@ -379,6 +380,7 @@
 | [0867-transpose-matrix](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aniket-Pal-22/Leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
